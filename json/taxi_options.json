@@ -1,0 +1,52 @@
+{
+    "cities" : [
+        {
+            "name" : "New_York_City",
+            "taxi_options_number" : 2,
+            "taxi" : [
+                {
+                    "display_name" : "Yellow"
+                },
+                {
+                    "display_name" : "Black"
+                }
+            ]
+        },
+        {
+            "name" : "Philadelphia",
+            "taxi_options_number" : 1,
+            "taxi" : [
+                {
+                    "display_name" : "Orange"
+                }
+            ]
+        },
+        {
+            "name" : "Washington_D.C.",
+            "taxi_options_number" : 1,
+            "taxi" : [
+                {
+                    "display_name" : "White"
+                }
+            ]
+        },
+        {
+            "name" : "San_Francisco",
+            "taxi_options_number" : 1,
+            "taxi" : [
+                {
+                    "display_name" : "Red"
+                }
+            ]
+        },
+        {
+            "name" : "Paris",
+            "taxi_options_number" : 1,
+            "taxi" : [
+                {
+                    "display_name" : "Black"
+                }
+            ]
+        }
+    ]
+}
