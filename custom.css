@@ -1,0 +1,38 @@
+h1,h2 {
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    font-family: 'Raleway', sans-serif;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+    margin-top:2em;
+	font-family: 'Raleway', sans-serif;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.tab-centered {
+    display:inline;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+    margin-top:2em;
+    font-family: 'Raleway', sans-serif;
+}
+
+.input-group .input-group-lg .form-control .input-box1 {
+    margin-bottom:0.5em;
+    border-radius: 6px;
+}
